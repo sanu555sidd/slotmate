@@ -1,2 +1,2 @@
 # slotmate
-this is a time pass
+this is a time pass hind
